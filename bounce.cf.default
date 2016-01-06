@@ -95,7 +95,7 @@ EOF
 
 #
 # The verify template is used for address verification (sendmail -bv
-# address...). or for verbose mail delivery (sendmail -v address...).
+# address...) or for verbose mail delivery (sendmail -v address...).
 # It is an error to specify a Postmaster-Subject: here.
 #
 
